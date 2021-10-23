@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Some Famous Star Wars Charaters</h1>
+      <h1>Some Famous Star Wars Characters</h1>
       <Data />
       <footer>Copyright @{date} - Randeep Virk</footer>
     </div>
